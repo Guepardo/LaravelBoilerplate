@@ -1,0 +1,9 @@
+.pagination-wrapper {
+  width: 100%; 
+  display: grid; 
+}
+
+.pagination-wrapper > .pagination {
+  margin-left: auto; 
+  margin-right: auto; 
+}
